@@ -11,6 +11,9 @@
 //|   2. changed some names for convenient use                                                
 //+------------------------------------------------------------------+
 
+//test github222222222222
+
+
 #property copyright "Robbie Ruan Ver 0.02 2011.11.06"
 #property link      "robbie.ruan@gmail.com"
 extern bool    CloseAllSymbols = true; // if CloseAllSymbols = false, just close the symbol you are applying your EA; if CloseAllSymbols = true, it will close all symbol satisfying the upper condition.
